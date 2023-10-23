@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA, USA, 2020 - present
+* M.Sc. in Applied Mathematics, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2018
+* B.Sc. in Applied Mathematics, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2016
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2020 - present: Research Assistant at Carnegie Mellon University, Pittsburgh, PA, USA
+  * Advisor: Prof. Soummya Kar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nov 2018 - Jun 2020: Junior Researcher at Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia
+  * Advisor: Prof. Dušan Jakovetić
+
+* Sep 2019 - Dec 2019: Visiting Researcher at University of Pennsylvania, Philadelphia, PA, USA
+  * Advisor: Prof. Alejandro Ribeiro
+
+* July 2018 - Oct 2018: Junior Researcher at BioSense Institute, University of Novi Sad, Novi Sad, Serbia
+
+* Feb 2018 - July 2018: Visiting Researcher at Faculty of Computer and Information Science, University of Ljubljana, Ljubljana, Slovenia
+  * Advisor: Prof. Blaž Zupan
 
 Publications
 ======
@@ -42,18 +39,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* IBM PhD Fellowship - nominated in front of the Electrical and Computer Engineering Deparment, Carnegie Mellon University, 2022 (ongoing)
+* Dean's Fellowship - Department of Electrical and Computer Engineering, Carnegie Mellon University, 2020
+* Annual Award of the Mathematical Institute of the Serbian Academy of Sciences and Arts for M.Sc. Students in the Field of Computing - Finalist, 2019
+* Various government and regional awards and fellowships for students with outstanding academic records - Serbia, 2012-2018   
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewing: 
+  * AISTATS - 2023, 2024
+
+* Carnegie Mellon University: 
+  * Electrical and Computer Engineering Department Student Council for Faculty Hiring - 2023 
