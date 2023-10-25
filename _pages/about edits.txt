@@ -1,0 +1,6 @@
+Recent projects included establishing learning guarantees in the presence of various notions of heterogeneity, e.g., statistical (non-IID distributions) [(paper)](https://arxiv.org/abs/2209.10866), or system heterogeneity (varying communication or computation capabilities) [(paper)](https://eurasip.org/Proceedings/Eusipco/Eusipco2023/pdfs/0000875.pdf), as well as learning guarantees under heavy-tailed noise [(paper)](). 
+
+News
+====
+
+* October 2023 - A new preprint is out. Title: [High-probability Convergence Bounds for Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise.]()
