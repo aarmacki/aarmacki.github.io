@@ -5,8 +5,7 @@ permalink: /publication/2022-07-17-grad-based-clust
 date: 2022-07-17
 venue: 'Proceedings of the 39th International Conference on Machine Learning, PMLR 162:929-947'
 paperurl: 'https://proceedings.mlr.press/v162/armacki22a.html'
-citation: '
-Armacki, A., Bajovic, D., Jakovetic, D. &amp; Kar, S.. (2022). Gradient Based Clustering. <i>Proceedings of the 39th International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 162:929-947.'
+citation: '<b>Armacki, A.</b>, Bajović, D., Jakovetić, D. &amp; Kar, S. (2022). Gradient Based Clustering. <i>Proceedings of the 39th International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 162:929-947.'
 ---
 
 [Download paper here](https://proceedings.mlr.press/v162/armacki22a/armacki22a.pdf)

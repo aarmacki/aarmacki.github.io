@@ -6,7 +6,7 @@ date: 2022-09-26
 venue: '2022 IEEE International Smart Cities Conference (ISC2)
 '
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9921863'
-citation: 'A. Armacki, D. Bajovic, D. Jakovetic and S. Kar, "Personalized Federated Learning via Convex Clustering," 2022 IEEE International Smart Cities Conference (ISC2), Pafos, Cyprus, 2022, pp. 1-7, doi: 10.1109/ISC255366.2022.9921863.'
+citation: '<b>A. Armacki</b>, D. Bajović, D. Jakovetić and S. Kar, "Personalized Federated Learning via Convex Clustering," 2022 IEEE International Smart Cities Conference (ISC2), Pafos, Cyprus, 2022, pp. 1-7, doi: 10.1109/ISC255366.2022.9921863.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2202.00718.pdf)

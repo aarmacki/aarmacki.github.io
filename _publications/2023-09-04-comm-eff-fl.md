@@ -5,7 +5,7 @@ permalink: /publication/2023-09-04-comm-eff-fl
 date: 2023-09-04
 venue: 'EUSIPCO 2023 31st European Signal Processing Conference'
 paperurl: 'https://eurasip.org/Proceedings/Eusipco/Eusipco2023/pdfs/0000875.pdf'
-citation: 'Armacki, A., Milosevic, N., Bajovic, D., Kar, S., Jakovetic, D., Bakhtiarnia, A., Esterle, L., Muscat, A., & Festi, T. (2023). Communication Efficient Model-aware Federated Learning for Visual Crowd Counting and Density Estimation in Smart Cities. EUSIPCO 2023 31st European Signal Processing Conference, Helsinki, Finland.'
+citation: '<b>Armacki, A.</b>, Milošević, N., Bajović, D., Kar, S., Jakovetić, D., Bakhtiarnia, A., Esterle, L., Muscat, A., & Festi, T. (2023). Communication Efficient Model-aware Federated Learning for Visual Crowd Counting and Density Estimation in Smart Cities. EUSIPCO 2023 31st European Signal Processing Conference, Helsinki, Finland.'
 ---
 
 [Download paper here](https://github.com/dusanjakovetic/FLVCC/blob/main/FLforVCCv2.pdf)

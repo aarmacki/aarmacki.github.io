@@ -5,7 +5,7 @@ permalink: /publication/2019-07-01-dist-tr-reg
 date: 2019-07-01
 venue: 'IEEE EUROCON 2019-18th International Conference on Smart Technologies'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8861739'
-citation: 'A. Armacki, D. Jakovetić, N. Krejić and N. K. Jerinkić, "Distributed Trust-Region Method With First Order Models," IEEE EUROCON 2019 -18th International Conference on Smart Technologies, Novi Sad, Serbia, 2019, pp. 1-6, doi: 10.1109/EUROCON.2019.8861739.'
+citation: '<b>A. Armacki</b>, D. Jakovetić, N. Krejić and N. K. Jerinkić, "Distributed Trust-Region Method With First Order Models," IEEE EUROCON 2019 -18th International Conference on Smart Technologies, Novi Sad, Serbia, 2019, pp. 1-6, doi: 10.1109/EUROCON.2019.8861739.'
 ---
 
 [Download paper here](https://people.dmi.uns.ac.rs/~natasa.krklec/Radovi/ajkkj.pdf)
