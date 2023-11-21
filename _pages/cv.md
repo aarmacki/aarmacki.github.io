@@ -41,7 +41,7 @@ Publications
   
 Awards
 ======
-* IBM PhD Fellowship - Nominated as one of the three nominees by the Electrical and Computer Engineering Department, Carnegie Mellon University, 2023 (ongoing)
+* IBM PhD Fellowship - Finalist. One of three nominees by the Electrical and Computer Engineering Department, Carnegie Mellon University, 2023
 * Dean's Fellowship - Department of Electrical and Computer Engineering, Carnegie Mellon University, 2020
 * Annual Award of the Mathematical Institute of the Serbian Academy of Sciences and Arts for M.Sc. Students in the Field of Computing - Finalist, 2019
 * Various government and regional awards and fellowships for students with outstanding academic records - Serbia, 2012-2018   
