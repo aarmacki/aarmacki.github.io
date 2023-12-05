@@ -14,5 +14,5 @@ If you have any questions about my research, or believe our interests are synerg
 
 News
 ====
-
-* October 2023 - A new preprint is out. Title: [High-probability Convergence Bounds for Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise.](https://arxiv.org/abs/2310.18784)
+* December 2023 - Our paper ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866) got accepted at IEEE Transactions on Signal Processing.
+* October 2023 - A new preprint is out. Title: ["High-probability Convergence Bounds for Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise''](https://arxiv.org/abs/2310.18784).
