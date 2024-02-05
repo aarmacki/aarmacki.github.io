@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
+Last updated Dec 2023. For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
 
 Education
 ======

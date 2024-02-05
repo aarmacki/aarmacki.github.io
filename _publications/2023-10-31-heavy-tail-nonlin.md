@@ -5,7 +5,7 @@ permalink: /publication/2023-10-31-heavy-tail-nonlin
 date: 2023-10-31
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2310.18784'
-citation: '<b>Armacki, A.</b>, Sharma, P., Joshi, G., Bajović, D., Jakovetić, D., & Kar, S. (2023). High-probability Convergence Bounds for Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise. arxiv preprint arxiv:2310.18784.'
+citation: '<b>Armacki, A.</b>, Sharma, P., Joshi, G., Bajović, D., Jakovetić, D., & Kar, S. (2023). High-probability Convergence Bounds for Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise. arxiv preprint, arxiv:2310.18784.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2310.18784.pdf)

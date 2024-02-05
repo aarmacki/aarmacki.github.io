@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Pittsburgh, PA, USA"
 ---
 
-I am currently a teaching assistant for the graduate level course Linear Systems. My duties include holding recitations, grading and holding office hours.
+I was a teaching assistant for the graduate level course Linear Systems. My duties included holding recitations, grading and holding office hours.
 
 Content
 ======
