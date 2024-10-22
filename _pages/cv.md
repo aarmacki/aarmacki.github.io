@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated Dec 2023. For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
+Last updated October 2024. For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
 
 Education
 ======
@@ -54,8 +54,15 @@ Teaching
 
 Academic Service
 ======
-* Reviewing: 
-  * AISTATS - 2023, 2024
+* Conference reviewer. 
+  * AISTATS: 2023, 2024, 2025
+  * IEEE ISIT: 2024
 
-* Carnegie Mellon University: 
-  * Electrical and Computer Engineering Department Student Council for Faculty Hiring - 2023 
+* Journal reviewer.
+  * IEEE TSP: 2024
+
+* Student supervision. 
+  * [Himkant Sharma](https://www.linkedin.com/in/himkant-sharma-04a74327a/): summer internship 2024
+
+* Student council for faculty hiring, CMU ECE 2023. 
+  
