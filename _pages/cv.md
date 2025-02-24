@@ -19,7 +19,7 @@ Education
 
 Experience
 ======
-* Aug 2020 - present: Research Assistant at Carnegie Mellon University, Pittsburgh, PA, USA
+* Aug 2020 - present: Graduate Research Assistant at Carnegie Mellon University, Pittsburgh, PA, USA
   * Advisor: Prof. Soummya Kar
 
 * Nov 2018 - Jun 2020: Junior Researcher at Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia
