@@ -1,14 +1,14 @@
 ---
-title: "Linear Systems - Fall 2022"
+title: "Linear Systems"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Carnegie Mellon University, Electrical and Computer Engineering Department"
-date: 2022-01-01
+date: 01-01-2022
 location: "Pittsburgh, PA, USA"
 ---
 
-I was a teaching assistant for the graduate level course Linear Systems. My duties included holding recitations, grading and holding office hours. 
+I was a teaching assistant for the graduate level course ''Linear Systems'', in the Fall of 2022 and 2023. My duties included holding recitations, grading and holding office hours. 
 
 Content
 ======

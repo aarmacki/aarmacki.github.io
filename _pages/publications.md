@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications (in chronological order, * = equal contribution)"
 permalink: /publications/
 author_profile: true
 ---
