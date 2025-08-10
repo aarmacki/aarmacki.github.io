@@ -9,28 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated April 2025. For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
+Last updated August 2025. For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA, USA, 2020 - present
+* Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA, USA, 2025
 * M.Sc. in Applied Mathematics, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2018
 * B.Sc. in Applied Mathematics, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2016
 
 Experience
 ======
-* Aug 2020 - present: Graduate Research Assistant at Carnegie Mellon University, Pittsburgh, PA, USA
+* Sep 2025 - present: Post-doctoral researcher at École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+  * Advisor: Prof. Ali H. Sayed
+
+* Aug 2020 - Jun 2025: Graduate research assistant at Carnegie Mellon University, Pittsburgh, PA, USA
   * Advisor: Prof. Soummya Kar
 
-* Sep 2019 - Dec 2019: Visiting Researcher at University of Pennsylvania, Philadelphia, PA, USA
+* Sep 2019 - Dec 2019: Visiting researcher at University of Pennsylvania, Philadelphia, PA, USA
   * Advisor: Prof. Alejandro Ribeiro
 
-* Nov 2018 - Jun 2020: Junior Researcher at Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia
+* Nov 2018 - Jun 2020: Junior researcher at Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia
   * Advisor: Prof. Dušan Jakovetić
 
-* July 2018 - Oct 2018: Junior Researcher at BioSense Institute, University of Novi Sad, Novi Sad, Serbia
+* July 2018 - Oct 2018: Junior researcher at BioSense Institute, University of Novi Sad, Novi Sad, Serbia
 
-* Feb 2018 - July 2018: Visiting Researcher at Faculty of Computer and Information Science, University of Ljubljana, Ljubljana, Slovenia
+* Feb 2018 - July 2018: Visiting researcher at Faculty of Computer and Information Science, University of Ljubljana, Ljubljana, Slovenia
   * Advisor: Prof. Blaž Zupan
 
 Publications (in chronological order, * = equal contribution)
