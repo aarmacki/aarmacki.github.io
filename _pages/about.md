@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at École Polytechnique Fédérale de Lausanne, hosted by professor [Ali H. Sayed](https://asl.epfl.ch/). I hold a PhD degree in electrical and computer engineering from Carnegie Mellon University, where I had the privilege of being advised by prof. [Soummya Kar](https://users.ece.cmu.edu/~soummyak/index.html). Broadly, my interests lie in signal processing and machine learning. More specifically, I study theoretical guarantees of both centralized and large-scale multi-agent learning systems, in the presence of phenomena such as heavy-tailed noise and statistical heterogeneity between different users' datasets.
+I am a post-doctoral researcher at École Polytechnique Fédérale de Lausanne, hosted by professor [Ali H. Sayed](https://asl.epfl.ch/). I hold a PhD degree in electrical and computer engineering from Carnegie Mellon University, where I had the privilege of being advised by professor [Soummya Kar](https://users.ece.cmu.edu/~soummyak/index.html). Broadly, my interests lie in signal processing and machine learning. More specifically, I study theoretical guarantees of both centralized and large-scale multi-agent learning systems, in the presence of phenomena such as heavy-tailed noise and statistical heterogeneity between different users' datasets.
  
 If you have any questions about my research, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
 
