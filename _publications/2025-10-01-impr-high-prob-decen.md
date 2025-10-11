@@ -1,0 +1,11 @@
+---
+title: "Improved High-probability Convergence Guarantees of Decentralized SGD"
+collection: publications
+permalink: /publication/2025-10-01-impr-high-prob-decen
+date: 2025-10-01
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2510.06141'
+citation: '<b>Armacki, A.</b>, &amp; Sayed, A. H. (2025). <i>Improved High-probability Convergence Guarantees of Decentralized SGD.</i> In arXiv:2507.09093'
+---
+
+Abstract: Convergence in high-probability (HP) has been receiving increasing interest, due to its attractive properties, such as exponentially decaying tail bounds and strong guarantees for each individual run of an algorithm. While HP guarantees are extensively studied in centralized settings, much less is understood in the decentralized, networked setup. Existing HP studies in decentralized settings impose strong assumptions, like uniformly bounded gradients, or asymptotically vanishing noise, resulting in a significant gap between assumptions used to establish convergence in the HP and the mean-squared error (MSE) sense, even for vanilla Decentralized Stochastic Gradient Descent (DSGD) algorithm. This is contrary to centralized settings, where it is known that SGD converges in HP under the same conditions on the cost function as needed to guarantee MSE convergence. Motivated by this observation, we revisit HP guarantees for DSGD in the presence of light-tailed noise. We show that DSGD converges in HP under the same conditions on the cost as in the MSE sense, removing uniformly bounded gradients and other restrictive assumptions, while simultaneously achieving order-optimal rates for both non-convex and strongly convex costs. Moreover, our improved analysis yields linear speed-up in the number of users, demonstrating that DSGD maintains strong performance in the HP sense and matches existing MSE guarantees. Our improved results stem from a careful analysis of the MGF of quantities of interest (norm-squared of gradient or optimality gap) and the MGF of the consensus gap between users' models. To achieve linear speed-up, we provide a novel result on the variance-reduction effect of decentralized methods in the HP sense and more fine-grained bounds on the MGF for strongly convex costs, which are both of independent interest.
