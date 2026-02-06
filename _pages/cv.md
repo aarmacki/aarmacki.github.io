@@ -50,7 +50,7 @@ Awards
   
 Academic Service
 ======
-* Conference reviewer: AISTATS, IEEE ISIT.
+* Conference reviewer: AISTATS, ICML, IEEE ISIT.
 
 * Journal reviewer: IEEE TSP.
 
