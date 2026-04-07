@@ -14,6 +14,7 @@ If you have any questions about my research, feel free to [reach out](mailto:ale
 
 News
 ====
+* March 2025 - Our paper ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2) got accepted for publication at IEEE Transactions on Information Theory.
 * February 2025 - A new preprint is out. Title: ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657).
 * October 2025 - A new preprint is out. Title: ["Improved High-probability Convergence Guarantees of Decentralized SGD"](https://arxiv.org/abs/2510.06141).
 * October 2025 - Our paper ["Large Deviation Upper Bounds and Improved MSE Rates of Nonlinear SGD: Heavy-tailed Noise and Power of Symmetry''](https://arxiv.org/abs/2410.15637) got accepted for publication at SIAM Journal on Optimization.
