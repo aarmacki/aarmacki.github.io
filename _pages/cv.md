@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated August 2025. For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
+Last updated May 2026. For a PDF version, click <a href="AleksandarArmacki_CV.pdf" target="_blank">here</a>. 
 
 Education
 ======
@@ -50,11 +50,15 @@ Awards
   
 Academic Service
 ======
-* Conference reviewer: AISTATS, ICML, IEEE ISIT.
+* Conference reviewer: IEEE ISIT, AISTATS, ICML, NeurIPS.
 
-* Journal reviewer: IEEE TSP.
+* Journal reviewer: IEEE Transactions on Signal Processing, Journal of Machine Learning Research.
 
-* Student supervision: [Himkant Sharma](https://www.linkedin.com/in/himkant-sharma-04a74327a/), summer internship 2024. Work resulted in [publication](https://github.com/aarmacki/aarmacki.github.io/blob/master/publications/Asilomar_2024.pdf) at Asilomar Conference on Signals, Systems, and Computers. 
+* Student supervision:
+ 
+  1. [Haoyuan Cai](https://people.epfl.ch/haoyuan.cai) (PhD student, EPFL, fall 2025-present): actively supervising and collaborating since joining prof. Sayed's group. The supervision resulted in [publication](https://arxiv.org/abs/2605.00281).
+  
+  2. [Himkant Sharma](https://www.linkedin.com/in/himkant-sharma-04a74327a/) (research intern, Carnegie Mellon University, summer 2024): supervised for the duration of internship in prof. Kar's group. The supervision resulted in [publication](https://github.com/aarmacki/aarmacki.github.io/blob/master/publications/Asilomar_2024.pdf). 
 
 * Teaching: Linear Systems, Fall 2022 and 2023.
 

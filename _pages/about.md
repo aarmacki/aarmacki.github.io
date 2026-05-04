@@ -14,8 +14,11 @@ If you have any questions about my research, feel free to [reach out](mailto:ale
 
 News
 ====
-* March 2025 - Our paper ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2) got accepted for publication at IEEE Transactions on Information Theory.
-* February 2025 - A new preprint is out. Title: ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657).
+* May 2026 - Our paper ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657) got accepted for publication at the 39th Conference on Learning Theory (COLT).
+* April 2026 - Our paper ["High-probability Convergence Guarantees of Decentralized SGD"](https://arxiv.org/abs/2510.06141) got accepted for publication at the 43rd International Conference on Machine Learning (ICML).
+* April 2026 - A new preprint is out. Title: ["High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking"](https://arxiv.org/abs/2605.00281).
+* March 2026 - Our paper ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2) got accepted for publication at IEEE Transactions on Information Theory.
+* February 2026 - A new preprint is out. Title: ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657).
 * October 2025 - A new preprint is out. Title: ["Improved High-probability Convergence Guarantees of Decentralized SGD"](https://arxiv.org/abs/2510.06141).
 * October 2025 - Our paper ["Large Deviation Upper Bounds and Improved MSE Rates of Nonlinear SGD: Heavy-tailed Noise and Power of Symmetry''](https://arxiv.org/abs/2410.15637) got accepted for publication at SIAM Journal on Optimization.
 * July 2025 - A new preprint is out. Title: ["Optimal High-probability Convergence of Nonlinear SGD under Heavy-tailed Noise via Symmetrization"](https://arxiv.org/abs/2507.09093).
