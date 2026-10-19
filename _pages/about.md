@@ -39,3 +39,12 @@ News
 * **December 2023** - Our paper ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866) got accepted for publication at IEEE Transactions on Signal Processing.
 
 </details>
+
+Selected Publications
+====
+* **Robust and Reliable Stochastic Optimization** 
+  1. "Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization" — COLT 2026
+  2. "Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization" — IEEE Transactions on Information Theory, 2026
+* **Collaborative Learning over Heterogeneous Networks**
+  3. "High-Probability Convergence Guarantees of Decentralized SGD" — ICML 2026
+  4. "A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments" — IEEE Transactions on Signal Processing, 2024
