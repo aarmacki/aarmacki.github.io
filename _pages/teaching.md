@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-My mentoring and teaching philosophy centers on developing a deep understanding of underlying principles and fostering independent reasoning. I aim to help students move beyond knowing how to apply a concept toward understanding why it works, and to develop the judgment to tackle unfamiliar problems.
+My mentoring and teaching philosophy centers on developing a deep understanding of the underlying principles and fostering independent reasoning.
 
 
 Student Mentoring
@@ -20,14 +20,12 @@ I have been involved in mentoring students at both EPFL and Carnegie Mellon Univ
 Teaching Experience
 ======
 
-I served twice as a teaching assistant for the graduate course *Linear Systems* in the Electrical and Computer Engineering Department at Carnegie Mellon University (Fall 2022 and Fall 2023). My responsibilities included conducting recitations, holding office hours, and developing homework assignments, midterm exams, and final exams.
+I served twice as a teaching assistant for the graduate course *Linear Systems* in the Electrical and Computer Engineering Department at Carnegie Mellon University (Fall 2022 and Fall 2023). My responsibilities included conducting recitations, holding office hours, and developing and grading homework assignments, midterm exams, and final exams.
 
-During recitations, I aimed to make abstract mathematical concepts more intuitive by introducing them through a progression of examples, starting with familiar settings and gradually moving toward more general and abstract ones. I also encouraged active participation by giving students time to work through exercises independently before discussing their ideas and approaches. This allowed me to better understand their reasoning and tailor my explanations to the aspects they found most challenging.
+In recitations, I aimed to make abstract mathematical concepts more intuitive by introducing them through a progression of examples, starting with familiar settings and gradually moving toward more complex ones. I also encouraged participation by giving students time to work through exercises before discussing their approaches, allowing me to better understand their reasoning and tailor my explanations to the aspects they found most challenging.
 
 
-Textbook and Teaching Interests
+Textbook
 ======
 
-I co-authored the graduate textbook [*Distributed Optimization with Applications*](https://www.pmf.uns.ac.rs/studije/epublikacije/matinf/jakovetic_armacki_distributed_optimization_applications.pdf) with Prof. Dušan Jakovetić (University of Novi Sad, 2020). The textbook was developed for a graduate course at the Faculty of Sciences, University of Novi Sad, and has been used in the course since its publication. My contributions included selecting topics, writing several chapters, and developing examples connecting theoretical concepts to applications.
-
-My teaching interests include optimization, stochastic processes, machine learning, and distributed algorithms at both undergraduate and graduate levels. I am also interested in developing advanced courses at the intersection of these topics.
+I co-authored the graduate textbook [*Distributed Optimization with Applications*](https://www.pmf.uns.ac.rs/studije/epublikacije/matinf/jakovetic_armacki_distributed_optimization_applications.pdf) with Prof. Dušan Jakovetić. The textbook was developed in 2020 for a graduate course at the Faculty of Sciences, University of Novi Sad, and has been used in the course since its publication. My contributions included selecting topics, writing several chapters, and developing examples connecting theoretical concepts to applications, providing valuable experience in course development.

@@ -28,7 +28,7 @@ For more details about my research and publications, see my [Research page](/res
 News
 ====
 * **October 2026** - A new preprint is out. Title: [*Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping*](https://arxiv.org/abs/2610.10527).
-* **Jun 2026** - A new preprint is out. Title: ["A Unified Zeroth-Order Approach for Decentralized Minimax Optimization"](https://arxiv.org/abs/2606.12124).
+* **Jun 2026** - A new preprint is out. Title: [*A Unified Zeroth-Order Approach for Decentralized Minimax Optimization*](https://arxiv.org/abs/2606.12124).
 * **May 2026** - Our paper [*Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization*](https://proceedings.mlr.press/v336/armacki26a.html) got accepted for publication at the 39th Conference on Learning Theory (COLT).
 * **April 2026** - Our paper [*High-probability Convergence Guarantees of Decentralized SGD*](https://openreview.net/forum?id=xSYhEkiyp5) got accepted for publication at the 43rd International Conference on Machine Learning (ICML).
 * **April 2026** - A new preprint is out. Title: [*High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking*](https://arxiv.org/abs/2605.00281).
