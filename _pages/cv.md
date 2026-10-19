@@ -11,8 +11,9 @@ redirect_from:
 
 Last updated: October 2026. <a href="AleksandarArmacki_CV.pdf" target="_blank">Download full CV</a> 
 
-Experience
-======
+## Experience
+
+
 * **Sep 2025 - present**: Post-doctoral researcher at École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
   * Advisor: Prof. Ali H. Sayed
 
@@ -31,28 +32,32 @@ Experience
   * Advisor: Prof. Blaž Zupan
 
 
-Education
-======
+## Education
+
+
 * **Ph.D. in Electrical and Computer Engineering**, Carnegie Mellon University, Pittsburgh, PA, USA, 2025
 * **M.Sc. in Applied Mathematics**, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2018
 * **B.Sc. in Applied Mathematics**, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2016
 
 
-Publications
-======
+## Publications
+
+
 For a complete list of journal articles, conference papers, preprints, and textbooks, see my [Publications page](/publications/).
 
 
-Awards and Honors
-======
+## Awards and Honors
+
+
 * **2026**: ICML Gold Reviewer - awarded to the top 25% of reviewers based on Area Chair ratings.
 * **2023**: IBM PhD Fellowship - Finalist (one of three nominees from the ECE Department, Carnegie Mellon University).
 * **2020**: Dean's Fellowship - ECE Department, Carnegie Mellon University.
 * **2019**: Annual Award of the Mathematical Institute of the Serbian Academy of Sciences and Arts for M.Sc. Students in the Field of Computing - Finalist.   
 
 
-Mentoring and Teaching
-======
+## Mentoring and Teaching
+
+
 * Student mentoring:
  
   1. [Haoyuan Cai](https://people.epfl.ch/haoyuan.cai) - PhD student, EPFL (Fall 2025 - Present). Active supervision and research collaboration, resulting in multiple research papers.
@@ -65,8 +70,9 @@ Mentoring and Teaching
 
 For more details, see my [Mentoring & Teaching](/teaching/) Page.
 
-Academic Service
-======
+## Academic Service
+
+
 * **Conference reviewer**: IEEE ISIT, AISTATS, ICML, NeurIPS, AAAI.
 
 * **Journal reviewer**: IEEE Transactions on Signal Processing, Journal of Machine Learning Research.
@@ -74,8 +80,9 @@ Academic Service
 * **Student council for faculty hiring**: Served on the ECE Department's student council for faculty hiring in 2023. Participated in interviewing faculty candidates to assess their potential to effectively mentor graduate students and foster healthy advisor–mentee relationships. 
 
 
-Talks and Presentations
-======
+## Talks and Presentations
+
+
 * **2026**: Invited talk, "Bogoljub Stanković" Seminar, University of Novi Sad, Serbia
 * **2026**: 43rd International Conference on Machine Learning (ICML), Seoul, South Korea
 * **2026**: 39th Conference on Learning Theory (COLT), San Diego, USA
