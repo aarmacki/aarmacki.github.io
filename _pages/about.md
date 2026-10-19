@@ -26,7 +26,7 @@ News
 * **April 2026** - Our paper ["High-probability Convergence Guarantees of Decentralized SGD"](https://arxiv.org/abs/2510.06141) got accepted for publication at the 43rd International Conference on Machine Learning (ICML).
 * **April 2026** - A new preprint is out. Title: ["High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking"](https://arxiv.org/abs/2605.00281).
 
-<details markdown="1">
+<details class="news-archive" markdown="1">
 <summary>See older news</summary>
 
 * **March 2026** - Our paper ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2) got accepted for publication at IEEE Transactions on Information Theory.

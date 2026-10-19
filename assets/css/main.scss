@@ -44,3 +44,8 @@
 .selected-publications ul ul {
   list-style-type: "▸  ";
 }
+
+/* Spacing below collapsible news */
+details.news-archive:not([open]) {
+  margin-bottom: 28px;
+}
