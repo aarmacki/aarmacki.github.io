@@ -12,9 +12,9 @@ My mentoring and teaching philosophy centers on developing a deep understanding 
 
 I have been involved in mentoring students at both EPFL and Carnegie Mellon University, with both experiences leading to research publications.
 
-* **[Haoyuan Cai](https://people.epfl.ch/haoyuan.cai)** - PhD student, EPFL (Fall 2025 - Present). I have been actively involved in supervising and collaborating with Haoyuan since joining Prof. Sayed's group. The collaboration has resulted in several research papers <a href="/publications/">[P1], [P2], [P3]</a>.
+* **[Haoyuan Cai](https://people.epfl.ch/haoyuan.cai)** - PhD student, EPFL (Fall 2025 - Present). I have been actively involved in supervising and collaborating with Haoyuan since joining Prof. Sayed's group. The collaboration has resulted in several research papers <a href="/publications/#P1">[P1]</a>, <a href="/publications/#P2">[P2]</a>, <a href="/publications/#P3">[P3]</a>.
 
-* **[Himkant Sharma](https://www.linkedin.com/in/himkant-sharma-04a74327a/)** - Research intern, Carnegie Mellon University (Summer 2024). I supervised Himkant during his summer internship in Prof. Kar's group. The supervision resulted in a conference publication on distributed clustering <a href="/publications/">[C5]</a>.
+* **[Himkant Sharma](https://www.linkedin.com/in/himkant-sharma-04a74327a/)** - Research intern, Carnegie Mellon University (Summer 2024). I supervised Himkant during his summer internship in Prof. Kar's group. The supervision resulted in a conference publication on distributed clustering <a href="/publications/#C5">[C5]</a>.
 
 
 ## Teaching Experience

@@ -8,22 +8,25 @@ author_profile: true
 
 ## Journal Articles
 
-
+<a id="J1"></a>
 **[J1]** *Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization.*  
 **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar.  
 IEEE Transactions on Information Theory, 2026.  
 [Published version](https://ieeexplore.ieee.org/document/11478471) | [Preprint](https://arxiv.org/abs/2507.09093)
 
+<a id="J2"></a>
 **[J2]** *Large Deviation Upper Bounds and Improved MSE Rates of Nonlinear SGD: Heavy-Tailed Noise and Power of Symmetry.*  
 **A. Armacki**\*, S. Yu\*, D. Bajović, D. Jakovetić, S. Kar.  
 SIAM Journal on Optimization, 2026.  
 [Published version](https://epubs.siam.org/doi/abs/10.1137/24M1704154) | [Preprint](https://arxiv.org/abs/2410.15637)
 
+<a id="J3"></a>
 **[J3]** *Distributed Center-Based Clustering: A Unified Framework.*  
 **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar.  
 IEEE Transactions on Signal Processing, 2025.  
 [Published version](https://ieeexplore.ieee.org/abstract/document/10847582) | [Preprint](https://arxiv.org/abs/2402.01302)
 
+<a id="J4"></a>
 **[J4]** *A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments.*  
 **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar.  
 IEEE Transactions on Signal Processing, 2024.  
@@ -32,12 +35,13 @@ IEEE Transactions on Signal Processing, 2024.
 
 ## Conference Papers
 
-
+<a id="C1"></a>
 **[C1]** *Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization.*  
 **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar, A. H. Sayed.  
 39th Conference on Learning Theory (COLT), 2026.  
 [Published version](https://proceedings.mlr.press/v336/armacki26a.html) | [Preprint](https://arxiv.org/abs/2602.05657)
 
+<a id="C2"></a>
 **[C2]** *High-Probability Convergence Guarantees of Decentralized SGD.*  
 **A. Armacki**, A. H. Sayed.  
 43rd International Conference on Machine Learning (ICML), 2026.  
@@ -48,11 +52,13 @@ IEEE Transactions on Signal Processing, 2024.
 33rd European Signal Processing Conference (EUSIPCO), 2025.  
 [Published version](https://ieeexplore.ieee.org/abstract/document/11226550) | [Preprint](https://github.com/aarmacki/aarmacki.github.io/blob/master/publications/dist_clust_init.pdf)
 
+<a id="C4"></a>
 **[C4]** *High-probability Convergence Bounds for Online Nonlinear Stochastic Gradient Descent under Heavy-tailed Noise.*  
 **A. Armacki**, S. Yu, P. Sharma, G. Joshi, D. Bajović, D. Jakovetić, S. Kar.  
 28th International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.  
 [Published version](https://proceedings.mlr.press/v258/armacki25a.html) | [Preprint](https://arxiv.org/abs/2410.13954)
 
+<a id="C5"></a>
 **[C5]** *Distributed Gradient Clustering: Convergence and the Effect of Initialization.*  
 **A. Armacki**\*, H. Sharma\*, D. Bajović, D. Jakovetić, M. Chakraborty, S. Kar.  
 58th Asilomar Conference on Signals, Systems, and Computers, 2024.  
@@ -63,6 +69,7 @@ IEEE Transactions on Signal Processing, 2024.
 31st European Signal Processing Conference (EUSIPCO), 2023.  
 [Published version](https://ieeexplore.ieee.org/abstract/document/10289938/) | [Preprint](https://github.com/dusanjakovetic/FLVCC/blob/main/FLforVCCv2.pdf)
 
+<a id="C7"></a>
 **[C7]** *Personalized Federated Learning via Convex Clustering.*  
 **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar.  
 IEEE International Smart Cities Conference (ISC2), 2022.  
@@ -81,7 +88,7 @@ IEEE EUROCON 18th International Conference on Smart Technologies, 2019.
 
 ## Books and Textbooks
 
-
+<a id="B1"></a>
 **[B1]** *Distributed Optimization with Applications.*  
 D. Jakovetić, **A. Armacki**.  
 Graduate textbook, Faculty of Sciences, University of Novi Sad, 2020.  
@@ -90,17 +97,19 @@ Graduate textbook, Faculty of Sciences, University of Novi Sad, 2020.
 
 ## Preprints
 
-
+<a id="P1"></a>
 **[P1]** *Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping.*  
 **A. Armacki**, H. Cai, A. H. Sayed.  
 Under review, 2026.  
 [Preprint](https://arxiv.org/abs/2610.10527)
 
+<a id="P2"></a>
 **[P2]** *A Unified Zeroth-Order Approach for Decentralized Minimax Optimization.*  
 H. Cai, Y. Zhao, **A. Armacki**, J. Chen, A. H. Sayed.  
 arXiv preprint, 2026.  
 [Preprint](https://arxiv.org/abs/2606.12124)
 
+<a id="P3"></a>
 **[P3]** *High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking.*  
 **A. Armacki**, H. Cai, A. H. Sayed.  
 Under review, 2026.  

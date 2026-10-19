@@ -40,7 +40,7 @@ News
 * **May 2025** - Our paper [*Toward Understanding the Improved Robustness to Initialization in Distributed Clustering*](https://github.com/aarmacki/aarmacki.github.io/blob/master/publications/dist_clust_init.pdf) got accepted for publication at the 33rd European Signal Processing Conference (EUSIPCO).  
 * **January 2025** - Our paper [*High-probability Convergence Bounds for Online Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise*](https://proceedings.mlr.press/v258/armacki25a.html) got accepted for publication at the 28th International Conference on Artificial Intelligence and Statistics (AISTATS).
 * **January 2025** - Our paper [*Distributed Center-based Clustering: A Unified Framework*](https://arxiv.org/abs/2402.01302) got accepted for publication at IEEE Transactions on Signal Processing.
-* **June 2024** - Our paper [*Gradient Clustering: Convergence and the Effect of Initialization*](https://arxiv.org/abs/2603.20507) got accepted for publication at the 58th Asilomar Conference on Signals, Systems, and Computers.
+* **June 2024** - Our paper [*Distributed Gradient Clustering: Convergence and the Effect of Initialization*](https://arxiv.org/abs/2603.20507) got accepted for publication at the 58th Asilomar Conference on Signals, Systems, and Computers.
 * **December 2023** - Our paper [*A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments*](https://arxiv.org/abs/2209.10866) got accepted for publication at IEEE Transactions on Signal Processing.
 
 </details>

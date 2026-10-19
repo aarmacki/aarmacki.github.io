@@ -142,7 +142,7 @@ To answer this question, I aim to identify and exploit structural properties of 
     </div>
     <p class="research-papers">
       Representative publications:
-      <a href="/publications/">[J1], [J2], [C4]</a>
+      <a href="/publications/#J1">[J1]</a>, <a href="/publications/#J2">[J2]</a>, <a href="/publications/#C4">[C4]</a>
     </p>
   </div>
 
@@ -162,7 +162,7 @@ To answer this question, I aim to identify and exploit structural properties of 
     </div>
     <p class="research-papers">
       Representative publication:
-      <a href="/publications/">[C1]</a>
+      <a href="/publications/#C1">[C1]</a>
     </p>
   </div>
 
@@ -188,7 +188,7 @@ To answer this question, I aim to identify and exploit structural properties of 
     </div>
     <p class="research-papers">
       Representative publications:
-      <a href="/publications/">[J4], [C7]</a>
+      <a href="/publications/#J4">[J4]</a>, <a href="/publications/#C7">[C7]</a>
     </p>
   </div>
 
@@ -207,7 +207,7 @@ To answer this question, I aim to identify and exploit structural properties of 
     </div>
     <p class="research-papers">
       Representative publications:
-      <a href="/publications/">[C2], [P1], [P3]</a>
+      <a href="/publications/#C2">[C2]</a>, <a href="/publications/#P1">[P1]</a>, <a href="/publications/#P3">[P3]</a>
     </p>
   </div>
 
