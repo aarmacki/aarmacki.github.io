@@ -59,11 +59,11 @@ Mentoring and Teaching
   
   2. [Himkant Sharma](https://www.linkedin.com/in/himkant-sharma-04a74327a/) - Research intern, Carnegie Mellon University (Summer 2024). Supervised research culminating in a conference publication.
 
-* Teaching: Served as Teaching Assistant for the graduate course "Linear Systems" at the ECE department at Carnegie Mellon University, in the Fall 2022 and Fall 2023 semesters.
+* Teaching: Served as Teaching Assistant for the graduate course *Linear Systems* at the ECE department at Carnegie Mellon University, in the Fall 2022 and Fall 2023 semesters.
 
-* Textbook: Co-author of "Distributed Optimization with Applications" (2020), a graduate textbook developed for and used in a course at the University of Novi Sad.
+* Textbook: Co-author of *Distributed Optimization with Applications* (2020), a graduate textbook developed for and used in a course at the University of Novi Sad.
 
-For more details, see my [Mentoring and Teaching](/teaching/) Page.
+For more details, see my [Mentoring & Teaching](/teaching/) Page.
 
 Academic Service
 ======
