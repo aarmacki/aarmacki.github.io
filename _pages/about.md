@@ -40,6 +40,7 @@ News
 
 </details>
 
+
 Selected Publications
 ====
 * **Robust and Reliable Stochastic Optimization** 
