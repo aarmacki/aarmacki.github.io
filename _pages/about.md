@@ -23,6 +23,19 @@ A central theme of my work is identifying and exploiting the underlying structur
 
 If you have any questions about my research, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
 
+Selected Publications
+====
+* **Robust and Reliable Stochastic Optimization** 
+  * ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://proceedings.mlr.press/v336/armacki26a.html)<br>
+  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar, A. H. Sayed. COLT, 2026.
+  * ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2)<br>
+  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Information Theory, 2026.
+* **Collaborative Learning over Heterogeneous Networks**
+  * ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866)<br>
+  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Signal Processing, 2024.
+  * ["High-probability Convergence Guarantees of Decentralized SGD"](https://openreview.net/forum?id=xSYhEkiyp5)<br>
+  **A. Armacki**, A. H. Sayed. ICML, 2026.
+
 News
 ====
 * **October 2026** - A new preprint is out. Title: ["Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping"](https://arxiv.org/abs/2610.10527).
@@ -43,17 +56,3 @@ News
 * **December 2023** - Our paper ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866) got accepted for publication at IEEE Transactions on Signal Processing.
 
 </details>
-
-
-Selected Publications
-====
-* **Robust and Reliable Stochastic Optimization** 
-  * ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://proceedings.mlr.press/v336/armacki26a.html)<br>
-  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar, A. H. Sayed. COLT, 2026.
-  * ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2)<br>
-  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Information Theory, 2026.
-* **Collaborative Learning over Heterogeneous Networks**
-  * ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866)<br>
-  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Signal Processing, 2024.
-  * ["High-probability Convergence Guarantees of Decentralized SGD"](https://openreview.net/forum?id=xSYhEkiyp5)<br>
-  **A. Armacki**, A. H. Sayed. ICML, 2026.
