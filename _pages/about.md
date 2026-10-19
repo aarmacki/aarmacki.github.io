@@ -8,21 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at EPFL, working with Prof. [Ali H. Sayed](https://asl.epfl.ch/). I received a PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by professor [Soummya Kar](https://users.ece.cmu.edu/~soummyak/index.html). 
+I am a post-doctoral researcher at EPFL, working with Prof. Ali H. Sayed. I received a PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by professor Soummya Kar. 
 
 My research lies at the intersection of stochastic optimization, machine learning, and distributed learning. More specifically, I seek to understand what performance guarantees are fundamentally achievable in modern learning systems under challenges such as heavy-tailed noise, data heterogeneity, and communication constraints, and how to design algorithms that attain these guarantees.
  
 A central theme of my work is identifying and exploiting the underlying structure of learning problems and algorithms to establish sharp theoretical guarantees and inform algorithm design. I pursue this agenda through two closely related directions: 
-* <b>Robust and reliable stochastic optimization<b/>: Understanding and improving the performance of stochastic optimization methods beyond classical noise assumptions, with an emphasis on robustness and individual-run reliability.
-* <b>Collaborative learning over heterogeneous networks<b/>: Understanding the benefits and limitations of collaboration among learning agents, particularly under data heterogeneity, communication constraints, and decentralized networks.
+* <b>Robust and reliable stochastic optimization</b>: Understanding and improving the performance of stochastic optimization methods beyond classical noise assumptions, with an emphasis on robustness and individual-run reliability.
+* <b>Collaborative learning over heterogeneous networks</b>: Understanding the benefits and limitations of collaboration among learning agents, particularly under data heterogeneity, communication constraints, and decentralized networks.
 
 If you have any questions about my research, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
 
 News
 ====
-* May 2026 - Our paper ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657) got accepted for publication at the 39th Conference on Learning Theory (COLT).
+
+* **May 2026** - Our paper ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657) got accepted for publication at the 39th Conference on Learning Theory (COLT).
 * April 2026 - Our paper ["High-probability Convergence Guarantees of Decentralized SGD"](https://arxiv.org/abs/2510.06141) got accepted for publication at the 43rd International Conference on Machine Learning (ICML).
 * April 2026 - A new preprint is out. Title: ["High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking"](https://arxiv.org/abs/2605.00281).
+
+<details>
+<summary>See older news</summary>
+
 * March 2026 - Our paper ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2) got accepted for publication at IEEE Transactions on Information Theory.
 * February 2026 - A new preprint is out. Title: ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657).
 * October 2025 - A new preprint is out. Title: ["Improved High-probability Convergence Guarantees of Decentralized SGD"](https://arxiv.org/abs/2510.06141).
@@ -36,3 +41,5 @@ News
 * October 2024 - A new preprint is out. Title: ["Nonlinear Stochastic Gradient Descent and Heavy-tailed Noise: A Unified Framework and High-probability Guarantees''](https://arxiv.org/abs/2410.13954).
 * February 2024 - A new preprint is out. Title: ["A Unified Framework for Gradient-based Clustering of Distributed Data''](https://arxiv.org/abs/2402.01302).
 * December 2023 - Our paper ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866) got accepted for publication at IEEE Transactions on Signal Processing.
+
+</details>
