@@ -21,8 +21,6 @@ My research spans stochastic optimization, machine learning, and multi-agent sys
 
 * **Collaborative learning over heterogeneous networks** - understanding the benefits and limitations of collaboration among learning agents in the presence of data heterogeneity, communication constraints, and decentralized information exchange.
 
-Together, these directions contribute to my long-term vision of developing theoretical foundations for efficient and reliable learning systems in which intelligent agents can adapt to their environment and autonomously decide when and with whom to collaborate.
-
 For more details about my research and publications, see my [Research page](/research/). If you have any questions about my research or otherwise, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
 
 News
