@@ -33,7 +33,7 @@ Experience
 
 Education
 ======
-* **Ph.D in Electrical and Computer Engineering**, Carnegie Mellon University, Pittsburgh, PA, USA, 2025
+* **Ph.D. in Electrical and Computer Engineering**, Carnegie Mellon University, Pittsburgh, PA, USA, 2025
 * **M.Sc. in Applied Mathematics**, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2018
 * **B.Sc. in Applied Mathematics**, Faculty of Sciences, University of Novi Sad, Novi Sad, Serbia, 2016
 
@@ -61,7 +61,7 @@ Mentoring and Teaching
 
 * Teaching: Served as Teaching Assistant for the graduate course "Linear Systems" at the ECE department at Carnegie Mellon University, in the Fall 2022 and Fall 2023 semesters.
 
-* Textbook: Co-author, "Distributed Optimization with Applications", graduate textbook, Faculty of Sciences, University of Novi Sad, 2020. 
+* Textbook: Co-author of "Distributed Optimization with Applications" (2020), a graduate textbook developed for and used in a course at the University of Novi Sad.
 
 For more details, see my [Mentoring and Teaching]() Page.
 
