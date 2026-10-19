@@ -40,7 +40,7 @@ Education
 
 Publications
 ======
-For a complete list of journal articles, conference papers, preprints, and textbooks, see my [Publications page]().
+For a complete list of journal articles, conference papers, preprints, and textbooks, see my [Publications page](/publications/).
 
 
 Awards and Honors
@@ -63,7 +63,7 @@ Mentoring and Teaching
 
 * Textbook: Co-author of "Distributed Optimization with Applications" (2020), a graduate textbook developed for and used in a course at the University of Novi Sad.
 
-For more details, see my [Mentoring and Teaching]() Page.
+For more details, see my [Mentoring and Teaching](/teaching/) Page.
 
 Academic Service
 ======
