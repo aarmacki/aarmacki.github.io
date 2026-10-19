@@ -22,8 +22,8 @@ News
 ====
 * **October 2026** - A new preprint is out. Title: ["Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping"](https://arxiv.org/abs/2610.10527).
 * **Jun 2026** - A new preprint is out. Title: ["A Unified Zeroth-Order Approach for Decentralized Minimax Optimization"](https://arxiv.org/abs/2606.12124).
-* **May 2026** - Our paper ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://arxiv.org/abs/2602.05657) got accepted for publication at the 39th Conference on Learning Theory (COLT).
-* **April 2026** - Our paper ["High-probability Convergence Guarantees of Decentralized SGD"](https://arxiv.org/abs/2510.06141) got accepted for publication at the 43rd International Conference on Machine Learning (ICML).
+* **May 2026** - Our paper ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://proceedings.mlr.press/v336/armacki26a.html) got accepted for publication at the 39th Conference on Learning Theory (COLT).
+* **April 2026** - Our paper ["High-probability Convergence Guarantees of Decentralized SGD"](https://openreview.net/forum?id=xSYhEkiyp5) got accepted for publication at the 43rd International Conference on Machine Learning (ICML).
 * **April 2026** - A new preprint is out. Title: ["High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking"](https://arxiv.org/abs/2605.00281).
 
 <details class="news-archive" markdown="1">
@@ -31,10 +31,9 @@ News
 
 * **March 2026** - Our paper ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2) got accepted for publication at IEEE Transactions on Information Theory.
 * **October 2025** - Our paper ["Large Deviation Upper Bounds and Improved MSE Rates of Nonlinear SGD: Heavy-tailed Noise and Power of Symmetry''](https://arxiv.org/abs/2410.15637) got accepted for publication at SIAM Journal on Optimization.
-* **July 2025** - A new preprint is out. Title: ["Optimal High-probability Convergence of Nonlinear SGD under Heavy-tailed Noise via Symmetrization"](https://arxiv.org/abs/2507.09093).
 * **Jun 2025** - I defended my PhD thesis! A big thank you to my advisor and committee members, as well as the many people that I had the pleasure of collaborating with during my PhD studies. I will be joining EPFL as a post-doctoral researcher, hosted by professor Ali H. Sayed. Looking forward to getting started in September!
-* **May 2025** - Our paper ["Toward Understanding the Improved Robustness to Initialization in Distributed Clustering"](https://github.com/aarmacki/aarmacki.github.io/blob/master/publications/dist_clust_init.pdf) got accepted for publication at EUSIPCO2025 Conference.  
-* **January 2025** - Our paper ["High-probability Convergence Bounds for Online Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise''](https://arxiv.org/abs/2410.13954) got accepted for publication at the International Conference on Artificial Intelligence and Statistics (AISTATS).
+* **May 2025** - Our paper ["Toward Understanding the Improved Robustness to Initialization in Distributed Clustering"](https://github.com/aarmacki/aarmacki.github.io/blob/master/publications/dist_clust_init.pdf) got accepted for publication at the 33rd European Signal Processing Conference (EUSIPCO).  
+* **January 2025** - Our paper ["High-probability Convergence Bounds for Online Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise''](https://proceedings.mlr.press/v258/armacki25a.html) got accepted for publication at the 28th International Conference on Artificial Intelligence and Statistics (AISTATS).
 * **January 2025** - Our paper ["Distributed Center-based Clustering: A Unified Framework''](https://arxiv.org/abs/2402.01302) got accepted for publication at IEEE Transactions on Signal Processing.
 * **December 2023** - Our paper ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866) got accepted for publication at IEEE Transactions on Signal Processing.
 
@@ -44,7 +43,7 @@ News
 Selected Publications
 ====
 * **Robust and Reliable Stochastic Optimization** 
-  * "Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization" — COLT 2026
+  * ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://proceedings.mlr.press/v336/armacki26a.html) — COLT 2026
   * "Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization" — IEEE Transactions on Information Theory, 2026
 * **Collaborative Learning over Heterogeneous Networks**
   * "High-Probability Convergence Guarantees of Decentralized SGD" — ICML 2026
