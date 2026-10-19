@@ -15,15 +15,13 @@ I am a post-doctoral researcher at EPFL, working with Prof. Ali H. Sayed. I rece
 Research Interests
 ====
 
-My research lies at the intersection of stochastic optimization, machine learning, and multi-agent systems. More specifically, I seek to understand what performance guarantees are achievable in modern learning systems under challenges such as heavy-tailed noise, data heterogeneity, and communication constraints, and how to design algorithms that attain these guarantees.
- 
-A central theme of my work is identifying and exploiting the underlying structure of the problem to establish sharp theoretical guarantees and inform algorithm design. I pursue this agenda through two main directions:
+My research spans stochastic optimization, machine learning, and multi-agent systems. I seek to understand what performance guarantees are achievable in learning systems under challenges such as heavy-tailed noise, data heterogeneity, and communication constraints, and how to design algorithms that attain these guarantees. I pursue this agenda in two main directions:
 
-* **Robust and reliable stochastic optimization**: my aim is to understand and improve the performance of stochastic optimization methods beyond classical noise assumptions, with an emphasis on robustness and individual-run reliability.
+* **Robust and reliable stochastic optimization** - understanding and improving the performance of stochastic optimization methods beyond classical noise assumptions, with an emphasis on robustness and individual-run reliability.
 
-* **Collaborative learning over heterogeneous networks**: my aim is to understand the benefits and limitations of collaboration among learning agents in the presence of data heterogeneity, communication constraints, and decentralized information exchange.
+* **Collaborative learning over heterogeneous networks** - understanding the benefits and limitations of collaboration among learning agents in the presence of data heterogeneity, communication constraints, and decentralized information exchange.
 
-Together, these directions contribute to my long-term vision of *developing theoretical foundations for efficient and reliable learning systems in which intelligent agents can adapt to their environment and autonomously decide when and with whom to collaborate.*
+Together, these directions contribute to my long-term vision of developing theoretical foundations for efficient and reliable learning systems in which intelligent agents can adapt to their environment and autonomously decide when and with whom to collaborate.
 
 For more details about my research and publications, see my [Research page](/research/). If you have any questions about my research or otherwise, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
 
