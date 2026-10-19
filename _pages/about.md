@@ -43,13 +43,12 @@ News
 Selected Publications
 ====
 * **Robust and Reliable Stochastic Optimization** 
-  * ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://proceedings.mlr.press/v336/armacki26a.html)
+  * ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://proceedings.mlr.press/v336/armacki26a.html)<br>
   **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar, A. H. Sayed. COLT, 2026.
-  * ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2)
+  * ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2)<br>
   **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Information Theory, 2026.
 * **Collaborative Learning over Heterogeneous Networks**
-  * "A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments" — IEEE Transactions on Signal Processing, 2024
-  * ["High-probability Convergence Guarantees of Decentralized SGD"](https://openreview.net/forum?id=xSYhEkiyp5)
-  **A. Armacki**, A. H. Sayed. ICML, 2026.
-  * ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866)
+  * ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866)<br>
   **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Signal Processing, 2024.
+  * ["High-probability Convergence Guarantees of Decentralized SGD"](https://openreview.net/forum?id=xSYhEkiyp5)<br>
+  **A. Armacki**, A. H. Sayed. ICML, 2026.
