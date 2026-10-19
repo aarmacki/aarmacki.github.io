@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at EPFL, working with Prof. Ali H. Sayed. I received my PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by Prof. Soummya Kar. 
+I am a post-doctoral researcher at EPFL, working with Prof. Ali H. Sayed. I received my PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by Prof. Soummya Kar. Prior to that, I earned my Bachelor's and Master's degrees in Mathematics from the Faculty of Sciences, University of Novi Sad.
 
 **I am on the academic job market for tenure-track faculty positions starting in Fall 2027.**
 
