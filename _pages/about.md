@@ -17,24 +17,15 @@ Research Interests
 
 My research lies at the intersection of stochastic optimization, machine learning, and multi-agent systems. More specifically, I seek to understand what performance guarantees are achievable in modern learning systems under challenges such as heavy-tailed noise, data heterogeneity, and communication constraints, and how to design algorithms that attain these guarantees.
  
-A central theme of my work is identifying and exploiting the underlying structure of learning problems and algorithms to establish sharp theoretical guarantees and inform algorithm design. I pursue this agenda through two main directions: 
-* **Robust and reliable stochastic optimization**: Understanding and improving the performance of stochastic optimization methods beyond classical noise assumptions, with an emphasis on robustness and individual-run reliability.
-* **Collaborative learning over heterogeneous networks**: Understanding the benefits and limitations of collaboration among learning agents in the presence of data heterogeneity, communication constraints, and decentralized information exchange.
+A central theme of my work is identifying and exploiting the underlying structure of the problem to establish sharp theoretical guarantees and inform algorithm design. I pursue this agenda through two main directions:
 
-If you have any questions about my research, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
+* **Robust and reliable stochastic optimization**: my aim is to understand and improve the performance of stochastic optimization methods beyond classical noise assumptions, with an emphasis on robustness and individual-run reliability.
 
-Selected Publications
-====
-* **Robust and Reliable Stochastic Optimization** 
-  * ["Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization"](https://proceedings.mlr.press/v336/armacki26a.html)<br>
-  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar, A. H. Sayed. COLT, 2026.
-  * ["Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization''](https://arxiv.org/abs/2507.09093v2)<br>
-  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Information Theory, 2026.
-* **Collaborative Learning over Heterogeneous Networks**
-  * ["A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments''](https://arxiv.org/abs/2209.10866)<br>
-  **A. Armacki**, D. Bajović, D. Jakovetić, S. Kar. IEEE Transactions on Signal Processing, 2024.
-  * ["High-probability Convergence Guarantees of Decentralized SGD"](https://openreview.net/forum?id=xSYhEkiyp5)<br>
-  **A. Armacki**, A. H. Sayed. ICML, 2026.
+* **Collaborative learning over heterogeneous networks**: my aim is to understand the benefits and limitations of collaboration among learning agents in the presence of data heterogeneity, communication constraints, and decentralized information exchange.
+
+Together, these directions contribute to my long-term vision of *developing theoretical foundations for efficient and reliable learning systems in which intelligent agents can adapt to their environment and autonomously decide when and with whom to collaborate.*
+
+For more details about my research and publications, see my [Research page](). If you have any questions about my research or otherwise, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
 
 News
 ====
