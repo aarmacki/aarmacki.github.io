@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at École Polytechnique Fédérale de Lausanne, hosted by professor [Ali H. Sayed](https://asl.epfl.ch/). I hold a PhD degree in electrical and computer engineering from Carnegie Mellon University, where I had the privilege of being advised by professor [Soummya Kar](https://users.ece.cmu.edu/~soummyak/index.html). Broadly, my interests lie in signal processing and machine learning. More specifically, I study theoretical guarantees of both centralized and large-scale multi-agent learning systems, in the presence of phenomena such as heavy-tailed noise and statistical heterogeneity between different users' datasets.
+I am a post-doctoral researcher at EPFL, working with Prof. [Ali H. Sayed](https://asl.epfl.ch/). I received a PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by professor [Soummya Kar](https://users.ece.cmu.edu/~soummyak/index.html). 
+
+My research lies at the intersection of stochastic optimization, machine learning, and distributed learning. More specifically, I seek to understand what performance guarantees are fundamentally achievable in modern learning systems under challenges such as heavy-tailed noise, data heterogeneity, and communication constraints, and how to design algorithms that attain these guarantees.
  
+A central theme of my work is identifying and exploiting the underlying structure of learning problems and algorithms to establish sharp theoretical guarantees and inform algorithm design. I pursue this agenda through two closely related directions: 
+* <b>Robust and reliable stochastic optimization<b/>: Understanding and improving the performance of stochastic optimization methods beyond classical noise assumptions, with an emphasis on robustness and individual-run reliability.
+* <b>Collaborative learning over heterogeneous networks<b/>: Understanding the benefits and limitations of collaboration among learning agents, particularly under data heterogeneity, communication constraints, and decentralized networks.
+
 If you have any questions about my research, feel free to [reach out](mailto:aleksandar.armacki@epfl.ch).
 
 News
