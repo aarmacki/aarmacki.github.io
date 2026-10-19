@@ -10,6 +10,8 @@ redirect_from:
 
 I am a post-doctoral researcher at EPFL, working with Prof. Ali H. Sayed. I received my PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by Prof. Soummya Kar. 
 
+**I am on the academic job market for tenure-track faculty positions starting in Fall 2027.**
+
 My research lies at the intersection of stochastic optimization, machine learning, and multi-agent systems. More specifically, I seek to understand what performance guarantees are achievable in modern learning systems under challenges such as heavy-tailed noise, data heterogeneity, and communication constraints, and how to design algorithms that attain these guarantees.
  
 A central theme of my work is identifying and exploiting the underlying structure of learning problems and algorithms to establish sharp theoretical guarantees and inform algorithm design. I pursue this agenda through two main directions: 
