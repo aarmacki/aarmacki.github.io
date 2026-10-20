@@ -5,44 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+
 <style>
-/* Three introductory boxes */
-.structure-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-  margin: 1rem 0 1.5rem;
-}
-
-.structure-card {
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 1rem 1.1rem;
-  background: #fafafa;
-}
-
-.structure-card h3 {
-  font-size: 0.98rem;
-  line-height: 1.35;
-  margin: 0 0 0.6rem;
-}
-
-.structure-card ul {
-  margin: 0;
-  padding-left: 1.1rem;
-  font-size: 0.88rem;
-  line-height: 1.55;
-}
-
-.structure-card li {
-  margin-bottom: 0.35rem;
-}
-
-.structure-card li:last-child {
-  margin-bottom: 0;
-}
-
-/* Four research cards */
+/* Research cards */
 .research-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -63,33 +28,29 @@ author_profile: true
   font-size: 1rem;
   line-height: 1.4;
   margin: 0 0 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
 }
 
+/* Icons */
+.research-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  flex-shrink: 0;
+  margin-top: -4px;
+  margin-left: -7px;
+}
+
+/* Descriptions */
 .research-card p {
   font-size: 0.9rem;
   line-height: 1.6;
   margin: 0 0 0.75rem;
 }
 
-.research-card .research-papers {
-  margin-top: auto;
-  margin-bottom: 0;
-  font-size: 0.85rem;
-}
-
-/* Responsive layout */
-@media (max-width: 800px) {
-  .structure-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 650px) {
-  .research-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
+/* Key results */
 .research-card .key-results {
   margin: 0 0 0.75rem;
 }
@@ -109,8 +70,20 @@ author_profile: true
   margin-bottom: 0.2rem;
 }
 
-</style>
+/* Publications */
+.research-card .research-papers {
+  margin-top: auto;
+  margin-bottom: 0;
+  font-size: 0.85rem;
+}
 
+/* Mobile layout */
+@media (max-width: 650px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 
 
 My research is motivated by the following fundamental question:
@@ -127,7 +100,10 @@ To answer this question, I aim to identify and exploit structural properties of 
 <div class="research-grid">
 
   <div class="research-card">
-    <h3>Robust Optimization under Heavy-Tailed Noise</h3>
+    <h3>
+    <img src="/icons/heavy-tails.png" alt="" class="research-icon">
+    Robust Optimization under Heavy-Tailed Noise
+    </h3>
     <p>
       Exploiting the interplay of noise symmetry and nonlinear gradient transformations to establish
       convergence guarantees beyond classical moment assumptions.
@@ -147,7 +123,10 @@ To answer this question, I aim to identify and exploit structural properties of 
   </div>
 
   <div class="research-card">
-    <h3>Long-Term Reliability of SGD-based Methods</h3>
+    <h3>
+    <img src="/icons/reliable.png" alt="" class="research-icon">
+    Long-Term Reliability of SGD-based Methods
+    </h3>
     <p>
       Characterizing the long-term decay of the probability of failing to reach a target
       accuracy during training in non-convex optimization.
@@ -173,7 +152,10 @@ To answer this question, I aim to identify and exploit structural properties of 
 <div class="research-grid">
 
   <div class="research-card">
-    <h3>Personalized Learning under Structured Heterogeneity</h3>
+    <h3>
+    <img src="/icons/heterogeneous.png" alt="" class="research-icon">
+    Personalized Learning under Structured Heterogeneity
+    </h3>
     <p>
       Leveraging the clustered structure of data heterogeneity to achieve statistically optimal
       personalized learning with minimal communication.
@@ -193,7 +175,10 @@ To answer this question, I aim to identify and exploit structural properties of 
   </div>
 
   <div class="research-card">
-    <h3>Reliable Optimization over Decentralized Networks</h3>
+    <h3>
+    <img src="/icons/decentralized.png" alt="" class="research-icon">
+    Reliable Optimization over Decentralized Networks
+    </h3>
     <p>
       Establishing convergence guarantees and collaboration benefits for individual training runs in decentralized learning, including under heavy-tailed noise.
     </p>
