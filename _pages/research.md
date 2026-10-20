@@ -213,16 +213,6 @@ To answer this question, I aim to identify and exploit structural properties of 
 
 </div>
 
-## Research Vision
+## Research Vision and Impact
 
-My long-term vision is to develop theoretical foundations for realizing efficient and reliable learning systems in which intelligent agents can adapt to their environment and autonomously decide when and with whom to collaborate. Toward achieving that vision, I plan to expand my research in the following directions:
-
-* **Communication-Efficient Learning under Structured Heterogeneity** - understanding the fundamental trade-offs between data heterogeneity, statistical performance, and communication requirements, and enabling agents to identify beneficial collaborations.
-
-* **Collaborative Learning under Nonlinear Gradient Dynamics** - understanding how nonlinear gradient transformations interact with decentralized coordination, and designing methods that preserve the benefits of collaboration while improving robustness.
-
-* **Structure-Aware Optimization for Large-Scale Learning** - understanding when exploiting the underlying structure of learning problems improves optimization performance, and developing efficient methods that can ultimately be extended to multi-agent settings.
-
-## Potential Impact
-
-Beyond theoretical advances, my research aims to make learning systems more resource-efficient and dependable. Communication-efficient learning and structure-aware optimization could reduce communication and computational costs, while sharp convergence guarantees could help quantify the risk of training failure and inform the allocation of computational resources. Together, these advances could make reliable machine learning methods more accessible, especially in resource-constrained environments.
+These directions contribute to my long-term vision of developing theoretical foundations for efficient and reliable learning systems in which intelligent agents can adapt to their environment and autonomously decide when and with whom to collaborate. Beyond theoretical advances, my research aims to make learning systems more resource-efficient and dependable, and potentially more accessible, especially in resource-constrained environments.
