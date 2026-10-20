@@ -1,66 +1,42 @@
+
 /*
-* Greedy Navigation
-*
-* http://codepen.io/lukejacksonn/pen/PwmwWV
-*
-*/
+ * All-or-nothing navigation.
+ *
+ * Show all navigation links if they fit.
+ * Otherwise, move all links into the dropdown.
+ */
 
 var $nav = $('#site-nav');
 var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
-var breaks = [];
-
 function updateNav() {
 
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+  // Restore all links to the visible list.
+  $hlinks.children().appendTo($vlinks);
 
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
+  // Hide the dropdown while measuring.
+  $btn.addClass('hidden').removeClass('close');
+  $hlinks.addClass('hidden');
 
-    // Record the width of the list
-    breaks.push($vlinks.width());
+  // Determine whether all links fit.
+  var availableSpace = $nav.width();
+  var requiredSpace = $vlinks.width();
 
-    // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
+  if (requiredSpace > availableSpace) {
 
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
-    }
+    // Move all five links into the dropdown.
+    $vlinks.children().appendTo($hlinks);
 
-  // The visible list is not overflowing
-  } else {
-
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
-
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
-
-    // Hide the dropdown btn if hidden list is empty
-    if(breaks.length < 1) {
-      $btn.addClass('hidden');
-      $hlinks.addClass('hidden');
-    }
+    // Show the dropdown button.
+    $btn.removeClass('hidden');
   }
 
-  // Keep counter updated
-  $btn.attr("count", breaks.length);
-
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
-    updateNav();
-  }
-
+  $btn.attr('count', $hlinks.children().length);
 }
 
-// Window listeners
-
-$(window).resize(function() {
+$(window).on('resize', function() {
   updateNav();
 });
 
