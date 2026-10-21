@@ -163,8 +163,8 @@ To answer this question, I aim to identify and exploit structural properties of 
     <div class="key-results">
       <p><strong>Key results:</strong></p>
       <ul>
-        <li>A family of methods using a single communication round</li>
-        <li>Statistically optimal performance guarantees</li>
+        <li>A family of client-server methods using a single communication round</li>
+        <li>Statistically optimal mean-squared error performance</li>
         <li>Trade-offs between clustering methods, prior knowledge, and sample complexity</li>
       </ul>
     </div>
