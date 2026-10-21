@@ -68,7 +68,7 @@ For a complete list of journal articles, conference papers, preprints, and textb
 
 * Textbook: Co-author of *Distributed Optimization with Applications* (2020), a graduate textbook developed for and used in a course at the University of Novi Sad.
 
-For more details, see my [Mentoring & Teaching](/teaching/) Page.
+For more details, see my [Mentoring & Teaching](/teaching/) page.
 
 ## Academic Service
 
