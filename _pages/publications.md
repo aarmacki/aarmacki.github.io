@@ -78,7 +78,7 @@ author_profile: true
 </style>
 
 <div class="pub-page">
-  <p class="pub-intro">Browse publications by type. Select a category to see its titles, then select any publication for authors, venue, and links. Listed in reverse chronological order within each category. <strong>*</strong> Denotes equal contribution.</p>
+  <p class="pub-intro">Browse publications by type. Opening a category reveals the authors, venues, and links for every paper. You can click an individual publication to collapse it. Listed in reverse chronological order within each category. <strong>*</strong> Equal contribution.</p>
   <div class="pub-accordion">
     <details class="pub-group" id="journal-articles" open>
       <summary>
@@ -87,7 +87,7 @@ author_profile: true
         <span class="pub-chevron" aria-hidden="true"></span>
       </summary>
       <div class="pub-group-body">
-        <details class="pub-card" id="J1">
+        <details class="pub-card" id="J1" open>
           <summary>
             <span class="pub-ref">[J1]</span>
             <span class="pub-card-title">Sharp High-Probability Rates for Nonlinear SGD under Heavy-Tailed Noise via Symmetrization</span>
@@ -103,7 +103,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="J2">
+        <details class="pub-card" id="J2" open>
           <summary>
             <span class="pub-ref">[J2]</span>
             <span class="pub-card-title">Large Deviation Upper Bounds and Improved MSE Rates of Nonlinear SGD: Heavy-Tailed Noise and Power of Symmetry</span>
@@ -119,7 +119,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="J3">
+        <details class="pub-card" id="J3" open>
           <summary>
             <span class="pub-ref">[J3]</span>
             <span class="pub-card-title">Distributed Center-Based Clustering: A Unified Framework</span>
@@ -135,7 +135,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="J4">
+        <details class="pub-card" id="J4" open>
           <summary>
             <span class="pub-ref">[J4]</span>
             <span class="pub-card-title">A One-shot Framework for Distributed Clustered Learning in Heterogeneous Environments</span>
@@ -160,7 +160,7 @@ author_profile: true
         <span class="pub-chevron" aria-hidden="true"></span>
       </summary>
       <div class="pub-group-body">
-        <details class="pub-card" id="C1">
+        <details class="pub-card" id="C1" open>
           <summary>
             <span class="pub-ref">[C1]</span>
             <span class="pub-card-title">Tight Long-Term Tail Decay of (Clipped) SGD in Non-Convex Optimization</span>
@@ -176,7 +176,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C2">
+        <details class="pub-card" id="C2" open>
           <summary>
             <span class="pub-ref">[C2]</span>
             <span class="pub-card-title">High-Probability Convergence Guarantees of Decentralized SGD</span>
@@ -192,7 +192,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C3">
+        <details class="pub-card" id="C3" open>
           <summary>
             <span class="pub-ref">[C3]</span>
             <span class="pub-card-title">Toward Understanding the Improved Robustness to Initialization in Distributed Clustering</span>
@@ -208,7 +208,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C4">
+        <details class="pub-card" id="C4" open>
           <summary>
             <span class="pub-ref">[C4]</span>
             <span class="pub-card-title">High-probability Convergence Bounds for Online Nonlinear Stochastic Gradient Descent under Heavy-tailed Noise</span>
@@ -224,7 +224,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C5">
+        <details class="pub-card" id="C5" open>
           <summary>
             <span class="pub-ref">[C5]</span>
             <span class="pub-card-title">Distributed Gradient Clustering: Convergence and the Effect of Initialization</span>
@@ -240,7 +240,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C6">
+        <details class="pub-card" id="C6" open>
           <summary>
             <span class="pub-ref">[C6]</span>
             <span class="pub-card-title">Communication Efficient Model-aware Federated Learning for Visual Crowd Counting and Density Estimation in Smart Cities</span>
@@ -256,7 +256,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C7">
+        <details class="pub-card" id="C7" open>
           <summary>
             <span class="pub-ref">[C7]</span>
             <span class="pub-card-title">Personalized Federated Learning via Convex Clustering</span>
@@ -272,7 +272,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C8">
+        <details class="pub-card" id="C8" open>
           <summary>
             <span class="pub-ref">[C8]</span>
             <span class="pub-card-title">Gradient Based Clustering</span>
@@ -288,7 +288,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="C9">
+        <details class="pub-card" id="C9" open>
           <summary>
             <span class="pub-ref">[C9]</span>
             <span class="pub-card-title">Distributed Trust-Region Method With First Order Models</span>
@@ -313,7 +313,7 @@ author_profile: true
         <span class="pub-chevron" aria-hidden="true"></span>
       </summary>
       <div class="pub-group-body">
-        <details class="pub-card" id="B1">
+        <details class="pub-card" id="B1" open>
           <summary>
             <span class="pub-ref">[B1]</span>
             <span class="pub-card-title">Distributed Optimization with Applications</span>
@@ -337,7 +337,7 @@ author_profile: true
         <span class="pub-chevron" aria-hidden="true"></span>
       </summary>
       <div class="pub-group-body">
-        <details class="pub-card" id="P1">
+        <details class="pub-card" id="P1" open>
           <summary>
             <span class="pub-ref">[P1]</span>
             <span class="pub-card-title">Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping</span>
@@ -352,7 +352,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="P2">
+        <details class="pub-card" id="P2" open>
           <summary>
             <span class="pub-ref">[P2]</span>
             <span class="pub-card-title">A Unified Zeroth-Order Approach for Decentralized Minimax Optimization</span>
@@ -367,7 +367,7 @@ author_profile: true
             </div>
           </div>
         </details>
-        <details class="pub-card" id="P3">
+        <details class="pub-card" id="P3" open>
           <summary>
             <span class="pub-ref">[P3]</span>
             <span class="pub-card-title">High-Probability Convergence in Decentralized Stochastic Optimization with Gradient Tracking</span>
@@ -391,39 +391,47 @@ author_profile: true
 /* The Research page links to /publications/#J1, #C2, etc.
    Open both the correct category and card before scrolling to that item. */
 (function () {
-  function expandAllPublications(group) {
+  function expandPublications(group) {
     group.querySelectorAll('.pub-card').forEach(function (card) {
       card.open = true;
     });
   }
 
-  document.querySelectorAll('.pub-page .pub-group').forEach(function (group) {
-    // Expand publications in categories already open on page load
-    if (group.open) {
-      expandAllPublications(group);
-    }
+  function initializePublications() {
+    document.querySelectorAll('.pub-page .pub-group').forEach(function (group) {
+      // Journal Articles is open by default, so expand all its papers on load.
+      if (group.open) expandPublications(group);
 
-    // Expand all publications whenever a category is opened
-    group.addEventListener('toggle', function () {
-      if (group.open) {
-        expandAllPublications(group);
-      }
+      // Every time a category is opened, expand every paper inside it.
+      // Individual papers can still be collapsed using their own summaries.
+      group.addEventListener('toggle', function () {
+        if (group.open) expandPublications(group);
+      });
     });
-  });
+    openLinkedPublication();
+  }
+
+  // Retain support for /publications/#J1, /publications/#C2, etc.
   function openLinkedPublication() {
     var id = decodeURIComponent(window.location.hash.slice(1));
     if (!id) return;
     var card = document.getElementById(id);
     if (!card || !card.classList.contains('pub-card')) return;
     var group = card.closest('.pub-group');
-    if (group) group.open = true;
+    if (group) {
+      group.open = true;
+      expandPublications(group);
+    }
     card.open = true;
-    window.requestAnimationFrame(function () { card.scrollIntoView({ block: 'center' }); });
+    window.requestAnimationFrame(function () {
+      card.scrollIntoView({ block: 'center' });
+    });
   }
+
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', openLinkedPublication);
+    document.addEventListener('DOMContentLoaded', initializePublications);
   } else {
-    openLinkedPublication();
+    initializePublications();
   }
   window.addEventListener('hashchange', openLinkedPublication);
 })();
