@@ -70,13 +70,13 @@ author_profile: true
   <div class="rs-card-head"><img class="rs-icon" src="/icons/heterogeneous.png" alt="" loading="lazy"><h3>Personalized Learning under Structured Heterogeneity</h3></div>
   <p class="rs-desc">Leveraging the clustered structure of data heterogeneity to achieve statistically optimal personalized learning with minimal communication.</p><div class="rs-rule" aria-hidden="true"></div>
   <p class="rs-label">Key results</p><ul class="rs-results"><li>A family of client-server methods using a single communication round</li><li>Statistically optimal mean-squared error performance</li><li>Trade-offs between clustering methods, prior knowledge, and sample complexity</li></ul>
-  <div class="rs-pubs"><span class="rs-pubs-label">Representative publications</span><a class="rs-ref" href="/publications/#J4">[J4]</a><a class="rs-ref" href="/publications/#C7">[C7]</a></div>
+  <div class="rs-pubs"><span class="rs-pubs-label">Representative publications:</span><a class="rs-ref" href="/publications/#J4">[J4]</a><a class="rs-ref" href="/publications/#C7">[C7]</a></div>
 </article>
 <article class="rs-card">
   <div class="rs-card-head"><img class="rs-icon" src="/icons/decentralized.png" alt="" loading="lazy"><h3>Reliable Optimization over Decentralized Networks</h3></div>
   <p class="rs-desc">Establishing convergence guarantees and collaboration benefits for individual training runs in decentralized learning, including under heavy-tailed noise.</p><div class="rs-rule" aria-hidden="true"></div>
   <p class="rs-label">Key results</p><ul class="rs-results"><li>Optimal rates for decentralized SGD and gradient tracking under light-tailed noise</li><li>Optimal rates for clipped DSGD under heavy-tailed noise</li><li>Linear speed-up in the number of agents for individual training runs</li></ul>
-  <div class="rs-pubs"><span class="rs-pubs-label">Representative publications</span><a class="rs-ref" href="/publications/#C2">[C2]</a><a class="rs-ref" href="/publications/#P1">[P1]</a><a class="rs-ref" href="/publications/#P3">[P3]</a></div>
+  <div class="rs-pubs"><span class="rs-pubs-label">Representative publications:</span><a class="rs-ref" href="/publications/#C2">[C2]</a><a class="rs-ref" href="/publications/#P1">[P1]</a><a class="rs-ref" href="/publications/#P3">[P3]</a></div>
 </article>
 </div></section>
 <section class="rs-section" aria-labelledby="rs-vision-heading"><div class="rs-head"><h2 id="rs-vision-heading">Research Vision and Impact</h2></div>
