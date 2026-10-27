@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -56,13 +56,13 @@ author_profile: true
   <div class="rs-card-head"><img class="rs-icon" src="/icons/heavy-tails.png" alt="" loading="lazy"><h3>Robust Optimization under Heavy-Tailed Noise</h3></div>
   <p class="rs-desc">Exploiting the interplay of noise symmetry and nonlinear gradient transformations to establish convergence guarantees beyond classical moment assumptions.</p><div class="rs-rule" aria-hidden="true"></div>
   <p class="rs-label">Key results</p><ul class="rs-results"><li>Unified framework for nonlinear SGD</li><li>Moment-independent guarantees</li><li>Novel symmetrization-based methods</li></ul>
-  <div class="rs-pubs"><span class="rs-pubs-label">Representative publications</span><a class="rs-ref" href="/publications/#J1">[J1]</a><a class="rs-ref" href="/publications/#J2">[J2]</a><a class="rs-ref" href="/publications/#C4">[C4]</a></div>
+  <div class="rs-pubs"><span class="rs-pubs-label">Representative publications:</span><a class="rs-ref" href="/publications/#J1">[J1]</a><a class="rs-ref" href="/publications/#J2">[J2]</a><a class="rs-ref" href="/publications/#C4">[C4]</a></div>
 </article>
 <article class="rs-card">
   <div class="rs-card-head"><img class="rs-icon" src="/icons/reliable.png" alt="" loading="lazy"><h3>Long-Term Reliability of SGD-based Methods</h3></div>
   <p class="rs-desc">Characterizing the long-term decay of the probability of failing to reach a target accuracy during training in non-convex optimization.</p><div class="rs-rule" aria-hidden="true"></div>
   <p class="rs-label">Key results</p><ul class="rs-results"><li>Exponentially decaying tail probability</li><li>Order-of-magnitude faster decay rates</li><li>Nearly matching lower bounds</li></ul>
-  <div class="rs-pubs"><span class="rs-pubs-label">Representative publication</span><a class="rs-ref" href="/publications/#C1">[C1]</a></div>
+  <div class="rs-pubs"><span class="rs-pubs-label">Representative publication:</span><a class="rs-ref" href="/publications/#C1">[C1]</a></div>
 </article>
 </div></section>
 <section class="rs-section" aria-labelledby="rs-heading-1"><div class="rs-head"><h2 id="rs-heading-1">Collaborative Learning over Heterogeneous Networks</h2></div><div class="rs-cards">

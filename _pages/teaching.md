@@ -75,7 +75,7 @@ author_profile: true
           </div>
         </div>
         <p class="mt-summary">I have been actively involved in supervising and collaborating with Haoyuan since joining Prof. Sayed’s group. The collaboration has resulted in several research papers.</p>
-        <div class="mt-related"><span class="mt-related-label">Related publications</span><a class="mt-ref" href="/publications/#P1">[P1]</a><a class="mt-ref" href="/publications/#P2">[P2]</a><a class="mt-ref" href="/publications/#P3">[P3]</a></div>
+        <div class="mt-related"><span class="mt-related-label">Related publications:</span><a class="mt-ref" href="/publications/#P1">[P1]</a><a class="mt-ref" href="/publications/#P2">[P2]</a><a class="mt-ref" href="/publications/#P3">[P3]</a></div>
       </article>
       <article class="mt-person">
         <div class="mt-person-top">
@@ -87,7 +87,7 @@ author_profile: true
           </div>
         </div>
         <p class="mt-summary">I supervised Himkant during his summer internship in Prof. Kar’s group. The supervision resulted in a conference publication on distributed clustering.</p>
-        <div class="mt-related"><span class="mt-related-label">Related publication</span><a class="mt-ref" href="/publications/#C5">[C5]</a></div>
+        <div class="mt-related"><span class="mt-related-label">Related publication:</span><a class="mt-ref" href="/publications/#C5">[C5]</a></div>
       </article>
     </div>
   </section>

@@ -29,7 +29,7 @@ redirect_from:
 .home-refresh .h-topic:hover { box-shadow: 0 8px 22px rgba(33, 57, 78, .085); transform: translateY(-2px); border-color: #ccdfeb; }
 .home-refresh .h-topic h3 { color:#294b64; font-size:1.06rem; line-height:1.38; margin:0 0 .65rem; font-weight:710; }
 .home-refresh .h-topic p { color:#526879; font-size:.84rem; line-height:1.7; margin:0; }
-.home-refresh .h-explore { font-size:.87rem; color: #5f7280; margin:1rem 0 0; }
+.home-refresh .h-explore { font-size:.87rem; color: #5f7280; margin:1.5rem 0 0; }
 .home-refresh a { color: #2b6c9a; text-underline-offset: 2px; }
 .home-refresh .h-explore a { font-weight:700; text-decoration: none; white-space:nowrap; }
 .home-refresh .h-explore a:hover { text-decoration: underline; }
@@ -154,8 +154,8 @@ redirect_from:
 </article>
 <article class="h-event">
   <div class="h-date"><span class="h-month">June</span><span class="h-year">2025</span></div>
-  <div class="h-update"><div class="h-update-top"><span class="h-pill">Milestone</span></div>
-   <p>I defended my PhD thesis! A big thank you to my advisor and committee members, as well as the many people that I had the pleasure of collaborating with during my PhD studies. I will be joining EPFL as a post-doctoral researcher, hosted by professor Ali H. Sayed. Looking forward to getting started in September!</p>
+  <div class="h-update"><div class="h-update-top"><span class="h-pill">PhD Defense</span></div>
+   <a class="h-paper" href="https://www.proquest.com/docview/3238247992?pq-origsite=gscholar&amp;fromopenview=true&amp;sourcetype=Dissertations%20%26%20Theses" target="_blank" rel="noopener noreferrer">I defended my PhD thesis! ↗</a><p>A big thank you to my advisor and committee members, as well as the many people that I had the pleasure of collaborating with during my PhD studies. I will be joining EPFL as a post-doctoral researcher, hosted by professor Ali H. Sayed. Looking forward to getting started in September.</p>
   </div>
 </article>
 <article class="h-event">
