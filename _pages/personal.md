@@ -61,7 +61,7 @@ author_profile: true
 </style>
 
 <div class="personal-refresh">
-  <p class="personal-intro">I am from <a href="https://en.wikipedia.org/wiki/Serbia">Serbia</a>, a beautiful country in southeastern Europe. In my spare time I enjoy reading and watching football (the real <a href="https://en.wikipedia.org/wiki/Association_football">football</a>). While my research can often be taxing, luckily, I have two amazing research assistants, who always make it more enjoyable. Here is a picture of them.</p>
+  <p class="personal-intro">I am from <a href="https://en.wikipedia.org/wiki/Serbia" style="text-decoration: none;">Serbia</a>, a beautiful country in southeastern Europe. In my spare time I enjoy reading and watching football (the real <a href="https://en.wikipedia.org/wiki/Association_football" style="text-decoration: none;">football</a>). While my research can often be taxing, luckily, I have two amazing research assistants, who always make it more enjoyable. Here is a picture of them.</p>
   <figure class="personal-photo">
     <img src="/images/vivo-poki.jpg" alt="My two cats resting together" loading="lazy" decoding="async">
     <figcaption>My two research assistants, contemplating a large deviations principle for their feeding time.</figcaption>

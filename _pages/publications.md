@@ -391,6 +391,25 @@ author_profile: true
 /* The Research page links to /publications/#J1, #C2, etc.
    Open both the correct category and card before scrolling to that item. */
 (function () {
+  function expandAllPublications(group) {
+    group.querySelectorAll('.pub-card').forEach(function (card) {
+      card.open = true;
+    });
+  }
+
+  document.querySelectorAll('.pub-page .pub-group').forEach(function (group) {
+    // Expand publications in categories already open on page load
+    if (group.open) {
+      expandAllPublications(group);
+    }
+
+    // Expand all publications whenever a category is opened
+    group.addEventListener('toggle', function () {
+      if (group.open) {
+        expandAllPublications(group);
+      }
+    });
+  });
   function openLinkedPublication() {
     var id = decodeURIComponent(window.location.hash.slice(1));
     if (!id) return;

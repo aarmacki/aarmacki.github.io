@@ -84,7 +84,7 @@ redirect_from:
 </style>
 
 <div class="home-refresh">
-  <p class="h-lead">I am a post-doctoral researcher at EPFL, working with Prof. Ali H. Sayed. I received my PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by Prof. Soummya Kar. Prior to that, I earned my Bachelor’s and Master’s degrees in Applied Mathematics from the Faculty of Sciences, University of Novi Sad.</p>
+  <p class="h-lead">I am a post-doctoral researcher at EPFL, working with <a href="https://asl.epfl.ch/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Prof. Ali H. Sayed</a>. I received my PhD in Electrical and Computer Engineering from Carnegie Mellon University, where I was advised by <a href="https://users.ece.cmu.edu/~soummyak/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Prof. Soummya Kar</a>. Prior to that, I earned my Bachelor’s and Master’s degrees in Applied Mathematics from the Faculty of Sciences, University of Novi Sad.</p>
   <div class="h-banner" role="note">
     <span class="h-banner-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="14" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18M10 12v2h4v-2"/></svg></span>
     <p><strong>I am on the academic job market for tenure-track faculty positions starting in Fall 2027.</strong><br></p>

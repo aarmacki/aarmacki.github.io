@@ -125,8 +125,8 @@ author_profile: true
   <ul class="cv-small-list">
    <li><strong>Student mentoring:</strong>
     <ul class="cv-mentor-sublist">
-     <li><a href="https://people.epfl.ch/haoyuan.cai" target="_blank" rel="noopener noreferrer">Haoyuan Cai</a> - PhD student, EPFL (Fall 2025 - Present). Active supervision and research collaboration, resulting in multiple research papers.</li>
-     <li><a href="https://www.linkedin.com/in/himkant-sharma-04a74327a/" target="_blank" rel="noopener noreferrer">Himkant Sharma</a> - Research intern, Carnegie Mellon University (Summer 2024). Supervised research culminating in a conference publication.</li>
+     <li><a href="https://people.epfl.ch/haoyuan.cai" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Haoyuan Cai</a> - PhD student, EPFL (Fall 2025 - Present). Active supervision and research collaboration, resulting in multiple research papers.</li>
+     <li><a href="https://www.linkedin.com/in/himkant-sharma-04a74327a/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Himkant Sharma</a> - Research intern, Carnegie Mellon University (Summer 2024). Supervised research culminating in a conference publication.</li>
     </ul>
    </li>
    <li><strong>Teaching:</strong> Served as Teaching Assistant for the graduate course <em>Linear Systems</em> at the ECE department at Carnegie Mellon University, in Fall 2022 and Fall 2023.</li>
