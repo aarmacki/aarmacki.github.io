@@ -78,7 +78,7 @@ author_profile: true
 </style>
 
 <div class="pub-page">
-  <p class="pub-intro">Browse publications by type. Opening a category reveals the authors, venues, and links for every paper. You can click an individual publication to collapse it. Listed in reverse chronological order within each category. <strong>*</strong> Equal contribution.</p>
+  <p class="pub-intro">Browse publications by type, listed in reverse chronological order. <strong>*</strong> Denotes equal contribution.</p>
   <div class="pub-accordion">
     <details class="pub-group" id="journal-articles" open>
       <summary>
